@@ -28,3 +28,7 @@
 <p>location is sanagmmer</p>
 
 <html>
+driver.manage().windows().maximize();
+driver.manage().windows().minimize();
+driver.manage().windows().fullscreen();
+
